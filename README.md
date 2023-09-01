@@ -1,2 +1,2 @@
-# Parser
-Первый модуль дипломного проекта, осуществляющий функции парсера веб-страниц на node.js. Собирает информацию с главных страниц сайтов, передавая их в базу данных MongoDB.
+# Web-Parser
+The first module of the graduation project, which performs the functions of a web page parser on node.js. Collects information from the main pages of sites, transferring them to the MongoDB database.
